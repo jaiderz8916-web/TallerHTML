@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inicio - Fincas en Alquiler</title>
+
+    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Kb6Wv7b6s__rJTO2_g8nGpSX_A8PvhdC_p0i0aaOOEJkiqu0PnI2rkpbE_RvYM6RIk_e4uPUindGnojCzq3vVHa3LvQcT2da-bKAtSxz6XionAIHqQfjIWz668Q0JShKtcWobgb1RvFoxGlYsj2RDRl8-oRdWzwvuEJLFU-Oqxmz4VTDfR2aGQDdvJ_udv3JmC8UmYhIVo6PWWrqsLffc_iHAMhh5E7eDP1_1kDVGEC6vWcNoJF4pdmQCcQ9bc30cXbREh-wGglUWzEBJwRPgPAUo_Db58CO9EnC1aY7Xv-pnlc6DZIdyeX_frg9pgIXtFGpKF97dQzD0XaJj_J9f3ZnMWTRhxlo13dGDIy8HjeOM3Vt94_7lU1EcVzH-OiQeSJHAQREGZut3M0NHlEksg" charset="UTF-8"></script><style>
+        body {
+            background-color: #3498db;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        ul {
+            list-style-position: inside;
+        }
+
+        table {
+            margin: auto;
+            margin-top: 20px;
+            background-color: #2c3e50;
+            color: white;
+            border-collapse: collapse;
+        }
+
+        th {
+            background-color: #1f618d;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Fincas en Alquiler</h1>
+
+    <img src="https://hemmabogota.com/wp-content/uploads/2025/02/FINCAS.jpg" 
+         alt="Finca en alquiler" width="400">
+
+    <p>
+        Ofrecemos las mejores fincas para alquilar, ideales para descanso,
+        eventos familiares y fine    s de semana.
+    </p>
+
+    <h2>Fincas disponibles</h2>
+
+    <ul>
+        <li>Finca corredor ecológico con piscina</li>
+        <li>Finca La Mercedes con piscina</li>
+        <li>Finca Vereda Barcelona con piscina</li>
+    </ul>
+
+    <h2>Servicios incluidos</h2>
+
+    <!-- TABLA RELACIONADA CON EL TEMA -->
+    <table>
+        <thead>
+            <tr>
+                <th>Servicio</th>
+                <th>Incluido</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Piscina privada</td>
+                <td>Sí</td>
+            </tr>
+            <tr>
+                <td>Zona BBQ</td>
+                <td>Sí</td>
+            </tr>
+            <tr>
+                <td>Parqueadero</td>
+                <td>Sí</td>
+            </tr>
+            <tr>
+                <td>WiFi</td>
+                <td>Opcional</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <br><br>
+
+    <a href="../html/html2/html2.html">Ir a Contacto</a>
+
+</body>
+</html>                                       
